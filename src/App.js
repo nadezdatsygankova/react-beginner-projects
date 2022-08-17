@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './index.scss';
 
-
 const Modal = ({ open, setOpen, children }) => (
   <div className={`overlay animated ${open ? 'show' : ''}`}>
     <div className="modal">

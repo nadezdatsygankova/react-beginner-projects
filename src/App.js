@@ -32,7 +32,6 @@ function App() {
         <img src="https://media2.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="gif" />
         <h3>This is modal</h3>
       </Modal>
-
     </div>
   );
 }
